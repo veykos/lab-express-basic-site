@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    max-width: 80vw;
+
+}
+img {
+    max-width: inherit;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
